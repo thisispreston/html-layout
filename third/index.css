@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Row {
+  height: 114px;
+  width: 100%;
+}
+
+.Big-Row {
+  height: 225px;
+  width: 100%;
+}
+
+.Row01 {
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+
+.Blue-Square {
+  height: 50px;
+  width: 50px;
+  background-color: royalblue;
+}
+
+.Row02 {
+  background-color: white;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.Text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 3px;
+  font-size: larger;
+}
+
+.Row03 {
+  background-color: blue;
+}
+
+.Row04 {
+  background-color: turquoise;
+}
+
+.Row05 {
+  background-color: lightgreen;
+}
+
+.Row06 {
+  background-color: yellow;
+}

@@ -58,10 +58,14 @@ body {
   padding: 60px;
   box-sizing: border-box;
   margin: 0 auto;
+  box-shadow: 8px 8px 8px grey;
 }
 
 p {
   font-size: 30px;
   text-align: center;
-  
+  letter-spacing: 15px;
+  color: blueviolet;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 40px;
 }
